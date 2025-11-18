@@ -518,7 +518,7 @@ export default function DatabaseManager() {
             <div className="bg-blue-50 p-4 rounded-lg">
               <p className="font-semibold text-blue-800 mb-2">🔐 Environment Variables Required:</p>
               <code className="block bg-white p-2 rounded mt-2">
-                GITHUB_TOKEN=your_github_personal_access_token<br/>
+                GITHUB_TOKEN=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<br/>
                 GITHUB_OWNER=rapipppganzz<br/>
                 GITHUB_REPO=improve-database<br/>
                 GITHUB_BRANCH=main
