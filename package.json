@@ -1,0 +1,16 @@
+{
+  "name": "improve-database",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "@octokit/core": "^4.2.1"
+  }
+}
